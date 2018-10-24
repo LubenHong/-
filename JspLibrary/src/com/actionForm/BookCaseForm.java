@@ -11,6 +11,7 @@ public class BookCaseForm extends ActionForm {
     public Integer getId() {
     	System.out.println("aaaa");
     	System.out.println("bbbb");
+    	System.out.println("cccc");
         return id;
     }
 
