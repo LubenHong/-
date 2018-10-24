@@ -60,6 +60,7 @@ public class BorrowForm extends ActionForm {
     }
 
     public void setId(Integer id) {
+    	System.out.println(22233);
         this.id = id;
     }
 
